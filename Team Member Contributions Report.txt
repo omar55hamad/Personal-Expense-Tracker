@@ -1,0 +1,16 @@
+Team Member Contributions Report
+1. Student Information
+Full Name: Omar Hamad
+Student ID: 220911309
+Individual Contributions Summary:
+• Core Logic Implementation: Programmed the financial calculation functions for totals and remaining net cash in cli.py.
+• Quality Assurance and Robustness: Designed the boundary validation controls to prevent negative value entries and malicious input exceptions.
+• Documentation: Co-authored the operational instruction manual in the main README.md file.
+2. Student Information
+Full Name: Loay Saleh
+Student ID: 220901438
+Individual Contributions Summary:
+• CLI Architecture and Parameter Parsing: Built the automated CLI sub-parser system using the argparse module in cli.py.
+• Persistence Layer and Testing: Developed the secure flat-file database storage handlers utilizing localized JSON serialization.
+• Visual Graphics: Structured the analytical text-based tracking charts and designed the academic slide presentation layouts.
+
